@@ -1,1 +1,1 @@
-# imdb_data_analytics
+# IMDB Data Analytics
